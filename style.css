@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+#status, #start {
+    font-size: 18px;
+}
+
+#number_of_objects {
+    font-size: 18px;
+} 
+
+canvas {
+    border-radius: 20px;
+    margin-top: 130px;
+    box-shadow: 7px 7px 7px grey;
+    border: 2px solid white;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#object_input {
+    width: 300px;
+    border: 4px solid grey;
+}
